@@ -1,10 +1,9 @@
 # Jukebox-opt for My Colab Notebook
 I have to fork the repo to avoid changes that crash Colab.
+[Colab](https://colab.research.google.com/drive/1dnPfW_Ym-iZDYQMo5lLjF1JBh3t_pqF5) 
 
 # Jukebox-opt
 Jukebox-opt is the standard archived code for jukebox with a few memory and speed optimizations
-
-[Colab](https://colab.research.google.com/drive/1dnPfW_Ym-iZDYQMo5lLjF1JBh3t_pqF5) 
 
 following is the original readme;
 
