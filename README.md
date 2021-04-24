@@ -1,3 +1,6 @@
+# Jukebox-opt for My Colab Notebook
+I have to fork the repo to avoid changes that crash Colab.
+
 # Jukebox-opt
 Jukebox-opt is the standard archived code for jukebox with a few memory and speed optimizations
 
